@@ -1,0 +1,1 @@
+const getVolumeOfCuboid = (l, w, h) => l*w*h
